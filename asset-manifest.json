@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/anantadurgaprasad/curiosityrover/static/css/main.a617e044.chunk.css",
+    "main.js": "/anantadurgaprasad/curiosityrover/static/js/main.7f9b5f36.chunk.js",
+    "main.js.map": "/anantadurgaprasad/curiosityrover/static/js/main.7f9b5f36.chunk.js.map",
+    "runtime-main.js": "/anantadurgaprasad/curiosityrover/static/js/runtime-main.ce0bc415.js",
+    "runtime-main.js.map": "/anantadurgaprasad/curiosityrover/static/js/runtime-main.ce0bc415.js.map",
+    "static/js/2.9be77b3d.chunk.js": "/anantadurgaprasad/curiosityrover/static/js/2.9be77b3d.chunk.js",
+    "static/js/2.9be77b3d.chunk.js.map": "/anantadurgaprasad/curiosityrover/static/js/2.9be77b3d.chunk.js.map",
+    "static/js/3.faa890da.chunk.js": "/anantadurgaprasad/curiosityrover/static/js/3.faa890da.chunk.js",
+    "static/js/3.faa890da.chunk.js.map": "/anantadurgaprasad/curiosityrover/static/js/3.faa890da.chunk.js.map",
+    "index.html": "/anantadurgaprasad/curiosityrover/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/anantadurgaprasad/curiosityrover/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9be77b3d.chunk.js.LICENSE.txt": "/anantadurgaprasad/curiosityrover/static/js/2.9be77b3d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/anantadurgaprasad/curiosityrover/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce0bc415.js",
+    "static/js/2.9be77b3d.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.7f9b5f36.chunk.js"
+  ]
+}
